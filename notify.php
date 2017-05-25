@@ -29,9 +29,9 @@ if($_GET['do'] == "post") {
 <head>
   <title>基于Web的本科毕业设计管理系统的设计与实现</title>
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="stylesheet" href="http://libs.useso.com/js/jquery-mobile/1.4.2/jquery.mobile.min.css" />
-  <script src="http://libs.useso.com/js/jquery/2.1.1/jquery.min.js"></script>
-  <script src="http://libs.useso.com/js/jquery-mobile/1.4.2/jquery.mobile.min.js"></script>
+  <link rel="stylesheet" href="https://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.css" />
+  <script src="https://code.jquery.com/jquery-2.2.4.min.js"></script>
+  <script src="https://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.js"></script>
   <script src="js/disableAJAX.js"></script>
 </head>
 <body>
@@ -112,9 +112,9 @@ endblock;
 <head>
   <title>基于Web的本科毕业设计管理系统的设计与实现</title>
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="stylesheet" href="http://libs.useso.com/js/jquery-mobile/1.4.2/jquery.mobile.min.css" />
-  <script src="http://libs.useso.com/js/jquery/2.1.1/jquery.min.js"></script>
-  <script src="http://libs.useso.com/js/jquery-mobile/1.4.2/jquery.mobile.min.js"></script>
+  <link rel="stylesheet" href="https://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.css" />
+  <script src="https://code.jquery.com/jquery-2.2.4.min.js"></script>
+  <script src="https://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.js"></script>
   <script src="js/disableAJAX.js"></script>
 </head>
 <body>
@@ -169,9 +169,9 @@ echo <<< htmlblock
 <head>
   <title>基于Web的本科毕业设计管理系统的设计与实现</title>
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="stylesheet" href="http://libs.useso.com/js/jquery-mobile/1.4.2/jquery.mobile.min.css" />
-  <script src="http://libs.useso.com/js/jquery/2.1.1/jquery.min.js"></script>
-  <script src="http://libs.useso.com/js/jquery-mobile/1.4.2/jquery.mobile.min.js"></script>
+  <link rel="stylesheet" href="https://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.css" />
+  <script src="https://code.jquery.com/jquery-2.2.4.min.js"></script>
+  <script src="https://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.js"></script>
   <script src="js/disableAJAX.js"></script>
 </head>
 <body>
